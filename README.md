@@ -143,7 +143,7 @@ MIT, see [LICENSE](LICENSE). The license covers this skill only.
 
 ## The paid pack
 
-This skill is also one of six in the Shopify Freelancer Skill Pack, a paid product ($39) by the same author: https://venturequarry.gumroad.com/l/xdljum
+This skill is also one of six in the Shopify Freelancer Skill Pack, a paid product ($39) by the same author: https://vorivant.gumroad.com/l/xdljum
 
 The other five cover a client-ready store audit, handoff docs, a section builder, metafields wiring and App Store review prep. They are not in this repository, and nothing here needs the pack.
 
